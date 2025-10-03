@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://assignment-backend-8jz8.onrender.com",
   "eslintConfig": {
     "extends": [
       "react-app",
